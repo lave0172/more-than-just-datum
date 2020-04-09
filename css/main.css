@@ -6,15 +6,6 @@ header {
   background-color: #ddd;
 }
 
-ol {
-  background-color; #fff;
-}
-
-table {
-  min-width: 50em;
-  border-collapse: collapse;
-}
-
 .logo {
   max-width: 200px;
 }
@@ -25,4 +16,13 @@ table {
 
 .nearest {
   background-color: #efefef;
+}
+
+ol {
+  background-color: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 51rem;
 }
